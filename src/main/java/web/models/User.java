@@ -1,4 +1,4 @@
-package web.boot.models;
+package web.models;
 
 
 import jakarta.persistence.*;
